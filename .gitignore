@@ -1,0 +1,4 @@
+*.png
+.irb-history
+.DS_Store
+GemFile.lock

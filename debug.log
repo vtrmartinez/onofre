@@ -1,0 +1,59 @@
+[1019/115142.087:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1019/115226.217:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1019/160213.930:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1019/160306.449:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1019/222430.767:ERROR:file_io_win.cc(161)] CreateFile C:\Users\VITORM~1\AppData\Local\Temp\scoped_dir6980_1773\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1019/222430.767:ERROR:file_io_win.cc(170)] CreateFile C:\Users\VITORM~1\AppData\Local\Temp\scoped_dir6980_1773\Crashpad\reports\f2a532e9-7cf3-4490-a5a0-c6269b98153e.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1019/222430.767:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1019/222937.362:ERROR:file_io_win.cc(161)] CreateFile C:\Users\VITORM~1\AppData\Local\Temp\scoped_dir12300_28881\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1019/222937.362:ERROR:file_io_win.cc(170)] CreateFile C:\Users\VITORM~1\AppData\Local\Temp\scoped_dir12300_28881\Crashpad\reports\09af199f-f724-4da9-8783-848edc1906a3.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1019/222937.362:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1022/101644.995:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1022/155232.746:ERROR:file_io_win.cc(161)] CreateFile C:\Users\VITORM~1\AppData\Local\Temp\scoped_dir12732_28733\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1022/155232.751:ERROR:file_io_win.cc(170)] CreateFile C:\Users\VITORM~1\AppData\Local\Temp\scoped_dir12732_28733\Crashpad\reports\b8400547-2c20-436c-9748-86aff273ad0c.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1022/155232.751:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1022/214256.383:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1022/214438.778:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1022/214912.434:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1022/214912.446:ERROR:exception_snapshot_win.cc(88)] thread ID 14404 not found in process
+[1022/214912.474:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1022/214912.474:ERROR:exception_snapshot_win.cc(88)] thread ID 3392 not found in process
+[1022/220149.301:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1022/221815.825:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1022/221815.826:ERROR:exception_snapshot_win.cc(88)] thread ID 6156 not found in process
+[1022/221815.847:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1022/221815.847:ERROR:exception_snapshot_win.cc(88)] thread ID 11280 not found in process
+[1022/222822.253:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1022/222850.654:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1022/222918.686:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1022/222946.825:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1022/231604.857:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1022/231604.858:ERROR:exception_snapshot_win.cc(88)] thread ID 5836 not found in process
+[1022/231712.508:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1022/231712.509:ERROR:exception_snapshot_win.cc(88)] thread ID 16236 not found in process
+[1022/232219.029:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1022/232219.030:ERROR:exception_snapshot_win.cc(88)] thread ID 17892 not found in process
+[1022/233226.492:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1022/233307.200:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1022/233829.563:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1022/233829.564:ERROR:exception_snapshot_win.cc(88)] thread ID 15392 not found in process
+[1022/234241.588:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1022/234241.589:ERROR:exception_snapshot_win.cc(88)] thread ID 13184 not found in process
+[1022/234241.613:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1022/234241.614:ERROR:exception_snapshot_win.cc(88)] thread ID 15352 not found in process
+[1022/235709.736:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1022/235709.737:ERROR:exception_snapshot_win.cc(88)] thread ID 11320 not found in process
+[1023/000257.497:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1023/000257.498:ERROR:exception_snapshot_win.cc(88)] thread ID 9532 not found in process
+[1023/000713.461:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1023/000713.462:ERROR:exception_snapshot_win.cc(88)] thread ID 9456 not found in process
+[1023/001719.415:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1023/001745.515:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1023/001828.868:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1023/002028.586:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1023/002139.932:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1023/002936.815:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1023/003032.005:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1023/003125.058:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1023/003204.079:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1023/003250.035:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
