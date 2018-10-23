@@ -12,11 +12,11 @@ class Purchase < SitePrism::Page
 
     def add_cart
         buy_button.click
-        # wait_until_finish_buy_button_visible
+        wait_until_finish_buy_button_visible
         finish_buy_button.click
-        # wait_until_select_address_visible
+        wait_until_select_address_visible
         select_address.click
-        # wait_until_express_delivery_visible
+        wait_until_express_delivery_visible
         express_delivery.click
         sleep 2
         credit_card.click
