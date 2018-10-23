@@ -1,5 +1,5 @@
 class Commom < SitePrism::Page
-    set_url 'https://www-qa.onofre.com.br/'
+    set_url URL['home']
     
     element :do_login, '.header__account__lnk'
     element :username, '#formLogin-query'

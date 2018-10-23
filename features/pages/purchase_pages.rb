@@ -1,5 +1,5 @@
 class Purchase < SitePrism::Page
-    set_url 'https://www-qa.onofre.com.br/higienes-e-cuidados/cuidados-diarios/sabonetes/sabonete-soapex-1--barra-80g'
+    set_url URL['product']
 
     element :buy_button, 'a.btn.btn-primary.add-to-cart-button'
     element :finish_buy_button, 'input.cart-header__button.btn.btn-primary.btn--full', match: :first

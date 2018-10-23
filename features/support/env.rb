@@ -8,6 +8,7 @@ require 'site_prism'
 include Capybara::DSL
 
 USER = (YAML.load_file('./features/fixtures/user.yml'))
+URL = (YAML.load_file('./features/fixtures/url.yml'))
 
 Capybara.register_driver :selenium do |app|
     client = Selenium::WebDriver::Remote::Http::Default.new
